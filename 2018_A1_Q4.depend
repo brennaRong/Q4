@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518423777 source:c:\users\brenna\documents\97. personal documents\unisa\sem_1\2018\2018_a1_q4\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
